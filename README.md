@@ -1,64 +1,58 @@
-# Computer Guardian  
+🖥️ Computer Guardian
+A Centralized E-commerce & Logistics Ecosystem for Egypt's PC Market
+![alt text](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Computer Guardian is an all-in-one platform designed to simplify the process of building custom computers, offering tech guides, and providing the latest news in the world of technology. Our website not only helps users create their perfect PC but also serves as a hub for the latest advancements in computer hardware and software.
-   
-One of the standout features of Computer Guardian is its seamless integration of PHP for dynamic content management, ensuring a smooth and efficient user experience. By utilizing PHP on the backend, the platform handles real-time data updates from our partner stores and manages user interactions without delays.
+![alt text](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Additionally, Computer Guardian collaborates with five real-life stores across Egypt, each specializing in computer components. Rather than forcing users to navigate multiple websites to find the specific parts they need, Computer Guardian centralizes all available parts from these stores into one unified platform. This integration, powered by PHP, allows users to quickly find and purchase components like graphic cards, processors, and more, all in one place.
-
-# How it Works:
-Search for Parts: Users browse the website for the specific components they need to build or upgrade their computer.
-Collaborative Stores: The platform, using PHP-driven functionality, automatically checks with the partnering stores to verify part availability.
-Order Confirmation: If the requested part is available, the store confirms the order directly through the platform, handled by PHP to ensure real-time communication.
-Delivery Anywhere in Egypt: A dedicated delivery team collects the part from the store and delivers it to the user’s location, no matter where they are in Egypt.
-
-
-
-## Visual Documentation 
-
-![image](https://github.com/user-attachments/assets/bf01fb9b-2d92-452f-9f4f-1b8bcae18b1d)
-
-![image](https://github.com/user-attachments/assets/ca3a2b99-44dc-4dda-80c2-0919deb8e79b)
-
-![image](https://github.com/user-attachments/assets/b6e73cd5-1701-45ba-b700-4ffb1a36c697)
-
-![image](https://github.com/user-attachments/assets/d5ed1771-22e9-465f-acd1-02f6a24162d9)
-
-![image](https://github.com/user-attachments/assets/aa9bedd6-314f-4cae-a3e9-f21630c0a025)
-
-![image](https://github.com/user-attachments/assets/021d9b05-e317-4716-8486-3dfde5df3f36)
-
-![image](https://github.com/user-attachments/assets/e194bdaf-b966-4c51-abd4-02ffca6c8c96)
-
-![image](https://github.com/user-attachments/assets/1d6eb11b-015c-44c6-9288-33dad554e911)
-
-![image](https://github.com/user-attachments/assets/dfe49484-1e9f-4ffe-98f7-80dbdbd9f2eb)
-
-![image](https://github.com/user-attachments/assets/883f41ff-b227-4a34-99c0-10e89226ff08)
-
-![image](https://github.com/user-attachments/assets/26968b99-a238-4e18-b20f-2cd5306d1f1d)
-
-![signuppage](https://github.com/user-attachments/assets/f9caf1b7-26b4-4104-b621-4b6d83fe0aed)
-
-![signupmyphp](https://github.com/user-attachments/assets/3dc10fb7-323f-4316-a4f6-e9487a04625b)
-
-![Screenshot (192)](https://github.com/user-attachments/assets/92a48e44-f72b-48a2-a078-e59e400cde57)
-
-![Screenshot (191)](https://github.com/user-attachments/assets/169c63b7-d876-4959-a331-4f27d6ff8397)
-
-![Screenshot (190)](https://github.com/user-attachments/assets/8706fe6c-34df-46bc-aad0-4a096f9f79ac)
-
-![Screenshot (189)](https://github.com/user-attachments/assets/7aaeef2c-baec-4ca3-9fcb-8e6ad16a950c)
-
-![loginpage](https://github.com/user-attachments/assets/85fd4e30-d5d6-4d3f-8aa2-9f963f4e93f3)
-
-![loginmyphp](https://github.com/user-attachments/assets/44e235e4-4985-4ea2-bf20-cb111c2d73c0)
-
-![accepttwo](https://github.com/user-attachments/assets/e13aa564-e850-46fb-89dd-0e123392613f)
-
-![accept](https://github.com/user-attachments/assets/979a5da3-95ea-4fcb-9128-6ed06cd6deec)
-
-
-This process saves users from the hassle of visiting multiple websites and ensures that they can get the part they need efficiently and reliably. Both the stores and the website creators earn a percentage from every sale, making this collaboration beneficial for all parties involved.
-
-At Computer Guardian, we strive to make computer building as easy and accessible as possible, bringing all the essential components and information into one unified experience.
+![alt text](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+Computer Guardian is a full-stack platform engineered to solve the fragmented hardware market in Egypt. Instead of users manually tracking dozens of store inventories, this platform centralizes availability, news, and logistics into a single, high-performance web experience.
+🎯 The Problem
+The PC building market in Egypt is highly fragmented. Users previously had to:
+Navigate 5+ different websites to find specific components (GPUs, CPUs).
+Manually verify stock availability via phone or fragmented social media pages.
+Coordinate their own delivery from specialized retail hubs.
+💡 The Solution
+Computer Guardian acts as a centralized "Control Tower." It uses a PHP-driven architecture to:
+Aggregate Inventory: Syncs real-time data from 5 major Egyptian hardware retailers.
+Streamline Logistics: Handles order confirmation and triggers a dedicated delivery workflow.
+Educate Users: Provides integrated tech guides and real-time industry news feeds.
+🛠️ Technical Stack
+Backend: PHP (Core) for dynamic content management and API-style logic.
+Database: MySQL (Relational schema for orders, users, and multi-store inventory).
+Frontend: HTML5, CSS3, JavaScript (Responsive UI).
+Integration: Real-time data synchronization between partner stores and the central hub.
+🚀 Key Features
+Centralized Marketplace: Search, filter, and compare components from multiple stores in one view.
+Real-Time Availability: PHP backend logic that verifies stock before an order is placed.
+Automated Delivery Routing: Integrated logic to coordinate part collection from specialized stores to any location in Egypt.
+Dynamic News Hub: A custom-built CMS to manage and serve the latest tech advancements.
+📸 Visual Documentation
+<details>
+<summary><b>🖼️ User Interface & Experience (Click to expand)</b></summary>
+<br>
+Landing Page	Part Discovery	News Hub
+![alt text](https://github.com/user-attachments/assets/bf01fb9b-2d92-452f-9f4f-1b8bcae18b1d)
+![alt text](https://github.com/user-attachments/assets/ca3a2b99-44dc-4dda-80c2-0919deb8e79b)
+![alt text](https://github.com/user-attachments/assets/b6e73cd5-1701-45ba-b700-4ffb1a36c697)
+Detailed Search	Component View	Store Integration
+![alt text](https://github.com/user-attachments/assets/d5ed1771-22e9-465f-acd1-02f6a24162d9)
+![alt text](https://github.com/user-attachments/assets/aa9bedd6-314f-4cae-a3e9-f21630c0a025)
+![alt text](https://github.com/user-attachments/assets/e13aa564-e850-46fb-89dd-0e123392613f)
+</details>
+<details>
+<summary><b>🔐 Authentication & Backend Management</b></summary>
+<br>
+Sign-Up Page	Database Logic (phpMyAdmin)	Admin Dashboard
+![alt text](https://github.com/user-attachments/assets/f9caf1b7-26b4-4104-b621-4b6d83fe0aed)
+![alt text](https://github.com/user-attachments/assets/3dc10fb7-323f-4316-a4f6-e9487a04625b)
+![alt text](https://github.com/user-attachments/assets/85fd4e30-d5d6-4d3f-8aa2-9f963f4e93f3)
+</details>
+🏗️ Architecture & Flow
+Request: User searches for a component (e.g., RTX 4070).
+Verification: PHP script queries the centralized database linked to the 5 partner store inventories.
+Transaction: SQL transaction handles the order, ensuring no double-booking of stock.
+Logistics: System generates a delivery ticket for the Egyptian logistics team.
+🤝 Contribution & License
+This project was developed as a full-stack solution for the Egyptian tech market.
+License: MIT
+Author: Yehia Ibrahim
