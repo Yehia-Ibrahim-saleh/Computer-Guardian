@@ -122,10 +122,7 @@ Sign-Up | Database (phpMyAdmin) | Admin Dashboard
 ## 🤝 Contribution  
 Contributions, issues, and feature requests are welcome.
 
----
 
-## 📄 License  
-This project is licensed under the MIT License
 
 ---
 
